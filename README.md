@@ -1,2 +1,1 @@
-# Calculator
-This is a Calculator website
+# This is a Calculator website
